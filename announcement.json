@@ -1,11 +1,11 @@
 {
-  "version": 4,
+  "version": 5,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v011-release",
-      "title": "Phoenix DRX 0.1.1 发布",
-      "body": "新增存档问题检测与一键修复、备份历史管理（随时还原）；首页改版为数据总览面板；全站加载过渡升级为页面骨架动画；新增首次使用引导；修复藏身处「全部拉满」不生效、缺失技能不落盘等问题。",
+      "id": "v012-release",
+      "title": "Phoenix DRX 0.1.2 发布",
+      "body": "更新提示改为独立窗口：有新版本时单独弹出，不再遮挡主界面，关闭后自动还原。同步优化了关于页信息与文案表述。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-20"

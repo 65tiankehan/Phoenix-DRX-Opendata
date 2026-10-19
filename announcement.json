@@ -1,11 +1,11 @@
 {
-  "version": 5,
+  "version": 6,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v012-release",
-      "title": "Phoenix DRX 0.1.2 发布",
-      "body": "更新提示改为独立窗口：有新版本时单独弹出，不再遮挡主界面，关闭后自动还原。同步优化了关于页信息与文案表述。",
+      "id": "v013-release",
+      "title": "Phoenix DRX 0.1.3 发布",
+      "body": "新增 GitHub 账号登录：登录后音效、动效、界面语言、已读公告会自动在多台电脑之间同步。新增快速搜索：按 Ctrl+K 随时打开，直接跳到任意页面或设置项。应用图标换成了主界面同款的蓝色标志。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-20"

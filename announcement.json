@@ -13,9 +13,7 @@
     {
       "id": "free-forever",
       "title": "永久免费声明",
-      "body": "Phoenix DRX 免费开源，无激活码、无会员、无有效期，欢迎 Star 与反馈问题。",
-      "actionLabel": "查看源码",
-      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Code",
+      "body": "Phoenix DRX 永久免费，无激活码、无会员、无有效期，欢迎反馈问题。",
       "date": "2026-10-19"
     }
   ]

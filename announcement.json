@@ -1,11 +1,11 @@
 {
-  "version": 6,
+  "version": 7,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v013-release",
-      "title": "Phoenix DRX 0.1.3 发布",
-      "body": "新增 GitHub 账号登录：登录后音效、动效、界面语言、已读公告会自动在多台电脑之间同步。新增快速搜索：按 Ctrl+K 随时打开，直接跳到任意页面或设置项。应用图标换成了主界面同款的蓝色标志。",
+      "id": "v014-release",
+      "title": "Phoenix DRX 0.1.4 发布",
+      "body": "对齐 SPT 4.1：档案的仓库附加行数、装备槽、任务条件等一批数据读写按最新存档结构修正，安全容器和耳机槽现在能正常显示。修复下拉菜单在滚动页面后飘走的问题。建议所有玩家更新。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-20"

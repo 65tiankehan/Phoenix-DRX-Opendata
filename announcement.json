@@ -1,14 +1,14 @@
 {
-  "version": 7,
+  "version": 8,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v014-release",
-      "title": "Phoenix DRX 0.1.4 发布",
-      "body": "对齐 SPT 4.1：档案的仓库附加行数、装备槽、任务条件等一批数据读写按最新存档结构修正，安全容器和耳机槽现在能正常显示。修复下拉菜单在滚动页面后飘走的问题。建议所有玩家更新。",
+      "id": "v015-release",
+      "title": "Phoenix DRX 0.1.5 发布",
+      "body": "更新等下载的时候，窗口里会轮播几条用法小提示，等待不再无聊。下载线路做了优化，网络不稳定时更容易装上新版本。顶栏新增「常去」快捷入口，最近常用的几个页面一点就到；底部导航收小了一档，页面空间更宽松。搜索面板调得更通透。建议所有玩家更新。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
-      "date": "2026-10-20"
+      "date": "2026-10-22"
     },
     {
       "id": "free-forever",

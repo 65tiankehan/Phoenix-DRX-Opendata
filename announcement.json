@@ -1,20 +1,38 @@
 {
-  "version": 8,
+  "version": 11,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v015-release",
-      "title": "Phoenix DRX 0.1.5 发布",
-      "body": "更新等下载的时候，窗口里会轮播几条用法小提示，等待不再无聊。下载线路做了优化，网络不稳定时更容易装上新版本。顶栏新增「常去」快捷入口，最近常用的几个页面一点就到；底部导航收小了一档，页面空间更宽松。搜索面板调得更通透。建议所有玩家更新。",
+      "id": "v016-release",
+      "kind": "announce",
+      "title": "Phoenix DRX 0.1.6 发布",
+      "body": "首页顶部新增一条动态栏：公告和小贴士会在这里轮换出现，这个位置也面向赞助者开放——想被更多玩家看到可以联系我们，编辑器本身永久免费。首页的格子填得更满：任务会提示最近可交付的是哪一条，藏身处会提示下一处可升级什么，仓库、技能、健康的信息也更全。角色页新增经验进度提示和身上装备速览。设置里新增「显示赞助推荐」开关，随时可以关掉。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
-      "date": "2026-10-22"
+      "date": "2026-10-23"
+    },
+    {
+      "id": "sponsor-wanted",
+      "kind": "announce",
+      "title": "这里可以放你的广告",
+      "body": "本条位置面向赞助者开放：模组作者、店铺、社区都想被玩家看到的话，欢迎赞助本项目换取展示位。编辑器本身永久免费，赞助只用于支持开发。",
+      "actionLabel": "去聊聊",
+      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
+      "date": "2026-10-23"
     },
     {
       "id": "free-forever",
+      "kind": "announce",
       "title": "永久免费声明",
       "body": "Phoenix DRX 永久免费，无激活码、无会员、无有效期，欢迎反馈问题。",
       "date": "2026-10-19"
+    },
+    {
+      "id": "tip-scav-regen",
+      "kind": "tip",
+      "title": "小贴士：Scav 冷却",
+      "body": "Scav 侦察兵的冷却时间随存活时长缩短——活着撤离的 Scav 越久，下次可玩来得越快。",
+      "date": "2026-10-23"
     }
   ]
 }

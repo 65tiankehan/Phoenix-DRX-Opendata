@@ -1,12 +1,12 @@
 {
-  "version": 12,
+  "version": 13,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v017-release",
+      "id": "v018-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.1.7 发布",
-      "body": "这个版本以打磨为主：顶部的「常去」栏和几个容易拿不准的按钮补上了悬停提示，鼠标停上去就能知道它是干什么的。更新提示小窗的排版也修好了——内容多的时候窗口会跟着内容撑开，不再出现底部空白一大片或者按钮被挤出窗外的情况。",
+      "title": "Phoenix DRX 0.1.8 发布",
+      "body": "更新提示窗口整体换新：三个阶段共用一套排版，发现更新、下载中、准备就绪各有专属图标，下载时会显示大约还需要多久，重启前还能回看这次更新了什么。安装器也换成了我们自己的安装界面：风格和应用一致，装完可以直接勾选立即运行，卸载也换成同款确认窗口。以后应用内更新的下载和安装都由新安装器完成，无需重新下载安装包。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-24"

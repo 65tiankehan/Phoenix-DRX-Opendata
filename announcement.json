@@ -1,15 +1,15 @@
 {
-  "version": 11,
+  "version": 12,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v016-release",
+      "id": "v017-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.1.6 发布",
-      "body": "首页顶部新增一条动态栏：公告和小贴士会在这里轮换出现，这个位置也面向赞助者开放——想被更多玩家看到可以联系我们，编辑器本身永久免费。首页的格子填得更满：任务会提示最近可交付的是哪一条，藏身处会提示下一处可升级什么，仓库、技能、健康的信息也更全。角色页新增经验进度提示和身上装备速览。设置里新增「显示赞助推荐」开关，随时可以关掉。",
+      "title": "Phoenix DRX 0.1.7 发布",
+      "body": "这个版本以打磨为主：顶部的「常去」栏和几个容易拿不准的按钮补上了悬停提示，鼠标停上去就能知道它是干什么的。更新提示小窗的排版也修好了——内容多的时候窗口会跟着内容撑开，不再出现底部空白一大片或者按钮被挤出窗外的情况。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
-      "date": "2026-10-23"
+      "date": "2026-10-24"
     },
     {
       "id": "sponsor-wanted",

@@ -1,15 +1,15 @@
 {
-  "version": 15,
+  "version": 16,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v0110-release",
+      "id": "v020-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.1.10 发布",
-      "body": "修复 0.1.9 更新机制的一个疏漏：部分从旧版本升级上来的朋友，新版本会被装到一个新文件夹、桌面图标还指着旧版。现在会正确地在原位置升级，之前被装出两个副本的也会自动清理并修好图标。编辑器本身永久免费。",
+      "title": "Phoenix DRX 0.2.0 发布：AI 助手来了",
+      "body": "这个版本加入了 AI 助手：一句「技能全满、给两千万、时装全解锁」，AI 会列出操作方案，你逐项确认后才执行，改动前自动备份。支持云端大模型（填自己的密钥）或本机 Ollama，密钥只存本机。同时新增形象与服装编辑（角色页）和套装军械库（预设页）：整套装备方案一键入库、服装套装解锁、头型语音随换。编辑器本身永久免费，AI 费用由你自己的账号承担。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
       "id": "sponsor-wanted",

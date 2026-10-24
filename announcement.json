@@ -1,12 +1,12 @@
 {
-  "version": 13,
+  "version": 14,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v018-release",
+      "id": "v019-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.1.8 发布",
-      "body": "更新提示窗口整体换新：三个阶段共用一套排版，发现更新、下载中、准备就绪各有专属图标，下载时会显示大约还需要多久，重启前还能回看这次更新了什么。安装器也换成了我们自己的安装界面：风格和应用一致，装完可以直接勾选立即运行，卸载也换成同款确认窗口。以后应用内更新的下载和安装都由新安装器完成，无需重新下载安装包。",
+      "title": "Phoenix DRX 0.1.9 发布",
+      "body": "这个版本打磨的是更新机制：应用内更新现在会原地升级，不会再装出第二个副本；安装完成后会自动打开新版本，不需要你去找图标。已装 0.1.8 的朋友直接「检查更新」就能体验完整的自动升级。编辑器本身永久免费。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-24"

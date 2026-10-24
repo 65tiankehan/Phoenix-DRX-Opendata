@@ -1,12 +1,12 @@
 {
-  "version": 14,
+  "version": 15,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v019-release",
+      "id": "v0110-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.1.9 发布",
-      "body": "这个版本打磨的是更新机制：应用内更新现在会原地升级，不会再装出第二个副本；安装完成后会自动打开新版本，不需要你去找图标。已装 0.1.8 的朋友直接「检查更新」就能体验完整的自动升级。编辑器本身永久免费。",
+      "title": "Phoenix DRX 0.1.10 发布",
+      "body": "修复 0.1.9 更新机制的一个疏漏：部分从旧版本升级上来的朋友，新版本会被装到一个新文件夹、桌面图标还指着旧版。现在会正确地在原位置升级，之前被装出两个副本的也会自动清理并修好图标。编辑器本身永久免费。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
       "date": "2026-10-24"

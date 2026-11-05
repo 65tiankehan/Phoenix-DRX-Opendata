@@ -1,15 +1,15 @@
 {
-  "version": 16,
+  "version": 17,
   "killSwitch": false,
   "announcements": [
     {
-      "id": "v020-release",
+      "id": "v021-release",
       "kind": "announce",
-      "title": "Phoenix DRX 0.2.0 发布：AI 助手来了",
-      "body": "这个版本加入了 AI 助手：一句「技能全满、给两千万、时装全解锁」，AI 会列出操作方案，你逐项确认后才执行，改动前自动备份。支持云端大模型（填自己的密钥）或本机 Ollama，密钥只存本机。同时新增形象与服装编辑（角色页）和套装军械库（预设页）：整套装备方案一键入库、服装套装解锁、头型语音随换。编辑器本身永久免费，AI 费用由你自己的账号承担。",
+      "title": "Phoenix DRX 0.2.1 发布：认得出新版 SPT 了",
+      "body": "这个版本专治「打开后什么都读不到」。新版 SPT 把服务器目录换了个名字，程序按旧名字去找，认不出就进不了主界面。现在新旧两种目录都能认，两个都装的混合情况也认。同时修掉了新版存档格式带来的几处毛病：仓库格子一片空白、任务状态一改就报错、语音和头型列表混进别的阵营、健康数值全是 0、预设「加入仓库」用不了。已经装过的直接更新即可，存档和设置都不受影响。",
       "actionLabel": "前往下载",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-releases/releases",
-      "date": "2026-10-25"
+      "date": "2026-11-05"
     },
     {
       "id": "sponsor-wanted",

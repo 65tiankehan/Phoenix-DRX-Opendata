@@ -21,6 +21,15 @@
       "date": "2026-10-23"
     },
     {
+      "id": "sponsor-wanted-en",
+      "kind": "announce",
+      "title": "Advertise here",
+      "body": "This slot is open to sponsors.\n\nThe announcement panel opens automatically after every update, and a post stays listed until it expires — so this is one of the first things SPT players see when they launch the editor.\n\nA good fit: mod authors, servers, shops, creators and communities who want to reach single-player Tarkov players directly, in Chinese or in English.\n\nPhoenix DRX itself is free and always will be — no ads in the editor, no account, no paywall. Sponsorship only covers development time.\n\nInterested? Open an issue on the Opendata repo and tell me what you would like to show.",
+      "actionLabel": "Get in touch",
+      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
+      "date": "2026-11-24"
+    },
+    {
       "id": "free-forever",
       "kind": "announce",
       "title": "永久免费声明",

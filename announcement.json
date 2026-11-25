@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "killSwitch": false,
   "announcements": [
     {
@@ -37,6 +37,33 @@
       "actionLabel": "Написать нам",
       "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
       "date": "2026-11-24"
+    },
+    {
+      "id": "dev-cost-zh",
+      "kind": "announce",
+      "title": "这项目花了多少：1,912.21 元现金，9 个月",
+      "body": "没有赞助商、没有收入、也没有付费版，从 2026 年 3 月做到现在。\n\n现金支出合计 1,912.21 元：DeepSeek 238.13 元、TRE（马里奥）359.90 元、火山引擎两个账号合计 1,314.18 元。全部用在写代码和排查问题上。\n\n时间：2026 年 3 月 1 日到今天共 270 天，按每天 3 小时保守估算约 800 小时。读 SPT 的数据结构、一屏一屏做界面、每次改动都拿真实存档验证、每版走一遍发版流程。\n\n写出来只是记个账：项目免费，往后也不收费。想支持的话，Opendata 仓库的 Issues 里可以聊赞助位和建议。",
+      "actionLabel": "去聊聊",
+      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
+      "date": "2026-11-25"
+    },
+    {
+      "id": "dev-cost-en",
+      "kind": "announce",
+      "title": "What this cost to build: ¥1,912.21 and nine months",
+      "body": "No sponsor, no revenue, no paid tier — built from March 2026 to today.\n\nOut-of-pocket spend: ¥1,912.21 in total (DeepSeek ¥238.13, TRE ¥359.90, Volcano Engine ¥1,314.18 across two accounts). All of it went into writing code and chasing down problems.\n\nTime: 270 days since 1 March 2026, roughly 800 hours at a conservative three hours a day. Reading SPT's data structures, building the UI screen by screen, verifying every change against a real save, and shipping every release.\n\nThis is written down to keep an honest account: Phoenix DRX is free and stays free. If you would like to support it, the Opendata Issues page is the place for sponsorship slots and suggestions.",
+      "actionLabel": "Get in touch",
+      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
+      "date": "2026-11-25"
+    },
+    {
+      "id": "dev-cost-ru",
+      "kind": "announce",
+      "title": "Сколько стоила разработка: 1912,21 ¥ и девять месяцев",
+      "body": "Без спонсоров, без дохода и без платной версии — с марта 2026 года и до сегодня.\n\nПотрачено своих денег: 1912,21 ¥ (DeepSeek 238,13 ¥, TRE 359,90 ¥, Volcano Engine 1314,18 ¥ на двух аккаунтах). Всё ушло на код и разбор проблем.\n\nВремя: 270 дней с 1 марта 2026 года, по осторожной оценке около 800 часов (три часа в день). Разбор структур данных SPT, интерфейс экран за экраном, проверка каждой правки на реальном сохранении и каждый релиз.\n\nЭто написано для честного учёта: Phoenix DRX бесплатный и останется таким. Если хотите поддержать — спонсорские места и предложения в Issues репозитория Opendata.",
+      "actionLabel": "Написать нам",
+      "actionUrl": "https://github.com/65tiankehan/Phoenix-DRX-Opendata/issues",
+      "date": "2026-11-25"
     },
     {
       "id": "free-forever",
